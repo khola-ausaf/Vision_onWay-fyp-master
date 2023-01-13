@@ -9,7 +9,7 @@ class Progress extends StatelessWidget {
     return Scaffold(
        
        appBar: AppBar(
-          title: const Text('Progress'),
+          title: const Text('PROGRESS'),
            backgroundColor:Color.fromARGB(255, 167, 124, 175),
           centerTitle: true,
         ),
